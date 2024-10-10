@@ -20,4 +20,15 @@ function toggleTheme() { // changement du thème
     setTheme(localStorage.getItem("theme"));
 }
 
-window.onload = setTheme(localStorage.getItem("theme"));
+function loadTheme() {
+    lightThemeButton.classList.toggle("noDisplay", false);
+    darkThemeButton.classList.toggle("noDisplay", false);
+    if (localStorage.getItem("theme") == "dark") {
+        darkThemeButton.classList.toggle("noDisplay");
+    } else {
+        lightThemeButton.classList.toggle("noDisplay");
+    }
+    setTheme(localStorage.getItem("theme"));
+}
+
+window.onload = loadTheme();

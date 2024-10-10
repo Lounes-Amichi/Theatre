@@ -75,6 +75,13 @@ li,
     cursor: default;
 }
 
+hr {
+    border: none;
+    border-top: 2px solid var(--accentColor);
+    height: 2px;
+    width: 40%;
+}
+
 .title {
     color: var(--textColor);
     font-size: 5vw;
@@ -255,4 +262,8 @@ nav {
 
 .pieceTitle {
     text-decoration: underline;
+}
+
+.pieceAuthor {
+    color: var(--specialLinkColor);
 }
