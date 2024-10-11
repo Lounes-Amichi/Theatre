@@ -75,6 +75,12 @@ li,
     cursor: default;
 }
 
+a {
+    cursor: pointer;
+    font-size: 0.5vw;
+    text-align: center;
+}
+
 hr {
     border: none;
     border-top: 2px solid var(--accentColor);
@@ -133,8 +139,8 @@ hr {
 }
 
 .imageFit {
-    object-fit: contain;
-    height: 100%;
+    width: 100%;
+    height: auto;
 }
 
 .svgIcon {
@@ -238,7 +244,7 @@ nav {
 }
 
 .bannerArrow {
-    font-size: 5rem;
+    font-size: 5vw;
     margin-bottom: 10vh;
 }
 
@@ -266,4 +272,13 @@ nav {
 
 .pieceAuthor {
     color: var(--specialLinkColor);
+}
+
+.linkCont {
+    width: 75%;
+
+}
+
+.linkImage {
+    width: 33%;
 }
