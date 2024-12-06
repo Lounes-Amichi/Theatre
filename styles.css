@@ -271,7 +271,7 @@ nav {
 }
 
 .pieceAuthor {
-    color: var(--specialLinkColor);
+    font-style: italic;
 }
 
 .linkCont {
