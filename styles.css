@@ -45,7 +45,7 @@
 /* || Fonts */
 @font-face {
     font-family: "Glober";
-    src: url("Glober.otf") format("opentype");
+    src: url("/Glober.otf") format("opentype");
 }
 
 /* || Misc */
@@ -147,75 +147,51 @@ hr {
     fill: var(--textColor);
 }
 
+.smallChar {
+    font-size: 1vw;
+}
+
 /* || Navbar */
+
+.mainPanel {
+    width: 100%;
+    height: 90vh;
+}
 
 nav {
     position: sticky;
     top: 0px;
 }
 
-.sidePanel {
+.navbar {
     width: 100%;
     height: 10vh;
     background-color: var(--supplementary);
+    border-bottom: solid 1px var(--accentColor);
 }
 
-.mainPanel {
+.subnav,
+.subnav-content a {
+    font-family: Glober;
+    margin: 1vh;
+    margin-top: 0%;
+    text-decoration: none;
+    font-size: 1.5vw;
+}
+
+.subnav-content {
+    height: 4vh;
+    display: none;
+    position: absolute;
+    left: 0;
     width: 100%;
-    height: 90%;
-    margin-left: 4vw;
+    z-index: 2;
 }
 
-.panelItem {
-    height: 75%;
-    aspect-ratio: 1/1;
-    border: var(--accentColor) solid 2px;
-    animation-duration: 100ms;
-    animation-direction: alternate;
-    animation-iteration-count: 1;
-    animation-timing-function: ease-in-out;
-    animation-name: iconIncRadius;
-    border-radius: 50%;
-    margin-bottom: 5%;
-    margin-top: 5%;
-    overflow: hidden;
-    margin-left: 0.25%;
-    margin-right: 0.25%;
+.subnav:hover .subnav-content{
+    display: flex;
 }
 
-.panelItem:hover {
-    animation-duration: 100ms;
-    animation-direction: alternate;
-    animation-iteration-count: 1;
-    animation-timing-function: ease-in-out;
-    animation-name: iconDecRadius;
-    border-radius: 10%;
-    cursor: pointer;
-}
-
-.panelButton {
-    height: 50%;
-    aspect-ratio: 1/1;
-    border-radius: 25%;
-}
-
-.panelButton:hover {
-    cursor: pointer;
-    box-sizing: border-box;
-    border: solid 1px var(--accentColor);
-}
-
-.themeCont {
-    height: 30%;
-    aspect-ratio: 1/1;
-    margin-right: 2vw;
-}
-
-.themeCont:hover {
-    transform: scale(120%);
-    transition: transform 150ms ease-in-out;
-    cursor: pointer;
-}
 
 /* || Main Content */
 

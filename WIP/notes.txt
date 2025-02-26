@@ -5,6 +5,19 @@ Le ring de Katharsy:
     -Au début, le jeu est plus un mode d'abilité mais qui tourne ensuite à différents combats.
     Les deux joueurs controllent les personnages, mais ceux-ci vont finir par se tourner contre eux.
 
+CHATGPT:
+« Le Ring de Katharsy » est une pièce de théâtre contemporaine créée en octobre 2024 au Théâtre National Populaire 
+de Villeurbanne par la metteuse en scène Alice Laloy. Cette œuvre hybride fusionne les univers du théâtre et du jeu 
+vidéo pour explorer les aspects sombres de nos sociétés modernes. La scène est transformée en un ring de six mètres 
+sur six, où deux joueurs manipulent des avatars humains dans une série de défis reflétant des thèmes tels que la 
+consommation effrénée et la manipulation. Les avatars, bien que faits de chair et d'os, sont traités comme des 
+marionnettes, brouillant ainsi la frontière entre l'humain et l'objet. La scénographie, dominée par des tons gris et
+une machinerie imposante, crée une atmosphère dystopique où les objets tombent du plafond, symbolisant des désirs
+matérialisés. Au fil des affrontements, les avatars commencent à se rebeller, remettant en question les dynamiques
+de pouvoir établies et suggérant une quête de libération et d'humanité retrouvée. Cette pièce interroge profondément
+la manipulation, la servitude volontaire et la place de l'individu dans une société consumériste.
+
+
 
 Monologue des objets:
     -Après avoir résenté de lieux en général on va présenter les choses en détail (checklist + paroles aux objets)
@@ -34,7 +47,26 @@ Dérapage des sea girls:
     -Théatre forum: Théatre qui vise à faire réfléchir et discuter.
         -Est ce que la pièce a fait réfléchir sur notre situation au lycée?
 
-
-Sorcières - Bette Davis
-
 bercail NPCs
+
+
+https://reftyose.github.io/aceuil.html
+
+
+TODO:
+- activité du bercail
+- activité de cyril brisse (pas de description de la scène)
+- girafes
+- monologue
+- éducation nationale
+- katharsy
+
+---
+
+- résumé activites
+- réécrire résumé scenes
+- réécrire résumé spectacles
+- réécrire seagirls
+- réécrire ouverture
+- réécrire explorateurs
+- réécrire monologue
