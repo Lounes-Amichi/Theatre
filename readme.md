@@ -6,6 +6,5 @@
 
 *later*:
 
-- add a ferris-wheel like display for the different shows
-- rework navbar to include subpages *(if needed)*
-- add texts for every scene we work on
+- add a carousel display for the different shows on `spectacles.html`
+- add the different texts we worked on.
