@@ -17,7 +17,7 @@
     --subTextColor: #404040;
     --specialLinkColor: #056363;
     --secondaryAccentColor: #00000033;
-    --supplementary: #bcb9b2
+    --supplementary: #bcb9b2;
 }
 
 /* || Animations */
@@ -214,7 +214,7 @@ nav {
 }
 
 .imageContent {
-    width: 25%;
+    width: 40%;
 }
 
 .bannerArrow {
