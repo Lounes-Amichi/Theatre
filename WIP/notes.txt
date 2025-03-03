@@ -4,12 +4,8 @@ Dérapage des sea girls:
 
 
 TODO:
-- activité du bercail
-- girafes
-
----
-
 - Esquive
+- controller thèmes
 - résumé activites
 - réécrire résumé scenes
 - réécrire résumé spectacles
