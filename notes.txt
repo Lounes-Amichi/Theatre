@@ -1,16 +1,9 @@
-Esquive
-    
-
-
-
 Dérapage des sea girls:
     -4ème mur brisé
     -rapport scène/salle
 
 
 TODO:
-- Esquive
-- controller thèmes
 - résumé activites
 - réécrire résumé scenes
 - réécrire résumé spectacles
